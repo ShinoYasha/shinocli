@@ -1,0 +1,22 @@
+{
+  "name": "generator-shino",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "app"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "yeoman-generator": "^2.0.1",
+    "yosay": "^2.0.1"
+  }
+}
